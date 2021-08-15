@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/hibara428/hibara428.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**hibara428** と申します。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+インフラ・バックエンドエンジニアです。
+インフラの設計・構築・運用、バックエンド開発を仕事にしております。
 
-### Markdown
+| Q | A |
+| --- | --- |
+| 好きなAWSサービスは？ | ECS,Lambda |
+| 好きな言語は？ | Golang ※勉強中 |
+| 好きな運用管理ツールは？ | しばらくTerraform推しだったが最近はこれといってないので推しが欲しい |
+| 最近の関心は？ | 認証・認可、ゼロトラスト、サーバレスアーキテクチャ |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
 
-```markdown
-Syntax highlighted code block
+### インフラ
 
-# Header 1
-## Header 2
-### Header 3
+- AWS,Azure
+- 物理(ラックマウントサーバ等)
 
-- Bulleted
-- List
+### サーバ
 
-1. Numbered
-2. List
+- Linux,Bash
+- Docker,Apache,Nginx,Fluentd,Traefik,...
+- GitHub Enterprise
 
-**Bold** and _Italic_ and `Code` text
+### 運用管理
 
-[Link](url) and ![Image](src)
-```
+- CloudFormation,Ansible,Terraform
+- Prometheus,Grafana
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### バックエンド
 
-### Jekyll Themes
+- PHP,Node.js,TypeScript,Python,Golang
+- Docker,Lambda
+- OpenAPI
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hibara428/hibara428.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### その他
 
-### Support or Contact
+- OAuth2,OpenID Connect
+- Google Apps Script
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Business experiences
+
+> TODO:
+
+## Gizmo trend
+
+まったく関係ありませんが、今週のギズモ、グレムリン、モグワイのトレンドを表示してみました。
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"ギズモ","geo":"JP","time":"now 7-d"},{"keyword":"グレムリン","geo":"JP","time":"now 7-d"},{"keyword":"モグワイ","geo":"JP","time":"now 7-d"}],"category":0,"property":""}, {"exploreQuery":"date=now%207-d&geo=JP&q=%E3%82%AE%E3%82%BA%E3%83%A2,%E3%82%B0%E3%83%AC%E3%83%A0%E3%83%AA%E3%83%B3,%E3%83%A2%E3%82%B0%E3%83%AF%E3%82%A4","guestPath":"https://trends.google.co.jp:443/trends/embed/"}); </script>
