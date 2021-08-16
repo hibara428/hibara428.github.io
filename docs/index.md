@@ -96,7 +96,9 @@ OpenAPI、Postman
 
 #### 実装
 
-PHP、Lambda(Python)、TypeScriptにて実装。
+- PHP
+- Lambda(Python)
+- TypeScript
 
 ### フロントエンド、ネイティブアプリ開発 (2年)
 
@@ -110,7 +112,7 @@ PHP、Lambda(Python)、TypeScriptにて実装。
 
 ### 開発・検証ハイブリッドクラウド基盤の構築・運用 (5年)
 
-VMWareベースの開発・検証サーバリプレースに伴い、Dockerベースの開発・検証基盤を構築して運用。社内セキュリティ指針によりすべてのクラウド移行はできないため、外部公開を要する環境のみAWSへ移行しハイブリッドクラウド構成とした。開発・検証の必要に応じて日々サーバを追加。
+VMWareベースの開発・検証サーバリプレースに伴い、Dockerベースの開発・検証基盤を構築して運用。セキュリティ指針により外部公開を要する環境のみAWSへ移行しハイブリッドクラウド構成とした。開発・検証の必要に応じて日々サーバを追加構築。
 
 #### 規模感
 
@@ -128,13 +130,13 @@ VMWareベースの開発・検証サーバリプレースに伴い、Dockerベ�
 
 ![img/dev-env.jpg](img/dev-env.jpg)
 
-また、営業部門が容易かつ安全に特定顧客専用サンプル公開環境を用意できるPHPアプリケーションを実装し、AWS上に環境構築。
+また、非開発部門が容易かつ安全に特定顧客専用のサンプル公開環境を用意できるPHPアプリケーションを実装し、AWS上に環境構築。
 
 ![img/sample-env.jpg](img/sample-env.jpg)
 
 #### 運用
 
-開発・検証基盤のコード化に注力。基盤だけでなくアプリ実行環境の保守性を改善。運用管理はCloudFormation、Terraform、Ansibleを適宜選択。コンテナ含むハイブリッドクラウド基盤の統合監視にはPrometheus+Grafana(CloudWatch併用)。AWSではSecurity Hub、Guard Dutyも導入。
+開発・検証基盤のコード化に注力。基盤だけでなくアプリ実行環境の保守性を改善。運用管理はCloudFormation、Terraform、Ansibleを適宜選択。コンテナ含むハイブリッドクラウド基盤の統合監視にはPrometheus+Grafana(CloudWatch併用)。
 
 ### 新規クラウド基盤構築プロジェクト管理 (1年)
 
