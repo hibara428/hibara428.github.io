@@ -79,11 +79,11 @@ OpenAPI、Postman
 
 ### バックエンド配信APIの設計・実装 (5年)
 
-フロントエンド（Web）からのHTTPリクエストに対して認証認可付きのRESTful APIを設計・実装。
+WebブラウザやスマートフォンアプリからのHTTPリクエストに対して、データを配信する認証認可付きRESTful APIを設計・実装。
 
 #### 実装言語
 
-- PHP
+- PHP5/7
 - Lambda(Python)
 - TypeScript
 
