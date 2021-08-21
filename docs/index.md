@@ -163,11 +163,3 @@ VMWareベースからDockerベースの開発・検証基盤に移行し、数�
 | 2016 | EXIN OpenStack Foundation |
 | 2019/02 | AWS Certified Solutions Architect - Associate (SAA) |
 | 2021/02 | AWS Certified SysOps Administrator - Associate (SOA) |
-
-## GIZMO trends
-
-ギズモの知名度向上のため、今週の日本の`ギズモ`、`グレムリン`、`モグワイ`のトレンドを表示しています。
-
-参照：[グレムリン \(映画\) \- Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%A0%E3%83%AA%E3%83%B3_(%E6%98%A0%E7%94%BB))
-
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2674_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"ギズモ","geo":"JP","time":"now 7-d"},{"keyword":"グレムリン","geo":"JP","time":"now 7-d"},{"keyword":"モグワイ","geo":"JP","time":"now 7-d"}],"category":0,"property":""}, {"exploreQuery":"date=now%207-d&geo=JP&q=%E3%82%AE%E3%82%BA%E3%83%A2,%E3%82%B0%E3%83%AC%E3%83%A0%E3%83%AA%E3%83%B3,%E3%83%A2%E3%82%B0%E3%83%AF%E3%82%A4","guestPath":"https://trends.google.co.jp:443/trends/embed/"}); </script>
