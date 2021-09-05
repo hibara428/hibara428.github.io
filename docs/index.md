@@ -167,3 +167,4 @@ VMWareベースからDockerベースの開発・検証基盤に移行し、数�
 | 2016 | EXIN OpenStack Foundation |
 | 2019/02 | AWS Certified Solutions Architect - Associate (SAA) |
 | 2021/02 | AWS Certified SysOps Administrator - Associate (SOA) |
+| 2021/09 | 日商簿記3級 |
