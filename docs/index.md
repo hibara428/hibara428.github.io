@@ -152,9 +152,10 @@ VMWareベースからDockerベースの開発・検証基盤に移行し、数�
 - Androidアプリ開発(Kotlin、Java)
 - iOSアプリ開発(Swift、Objective-C)
 
-### サークルでのゲーム制作 (3年)
+### その他
 
-大学時代はサークルにてWindowsプログラミングによるアクションゲーム等を制作。
+- 大学時代にサークルにてWindowsプログラミングによるアクションゲーム等を制作
+- アルバイトにてCakePHPを用いたWeb+DBアプリケーションを開発
 
 ## Certifications
 
