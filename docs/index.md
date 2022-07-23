@@ -2,23 +2,28 @@
 
 ![img/gizmo-icon.jpg](img/gizmo-icon.jpg)
 
-**hibara428** と申します。
+**hibara428** (hibara428@gmail.com) と申します。
 
 インフラ・バックエンドエンジニアです。
-インフラの設計・構築・運用、バックエンド開発を主な仕事にしています。フロントエンド、ネイティブアプリ開発も多少経験があります。
+インフラ設計・構築・運用、およびバックエンド開発を主な仕事にしています。その他、フロントエンド開発やネイティブアプリ開発も経験があります。
 
-| Q | A |
+- [hibara428 | GitHub](https://github.com/hibara428)
+
+### Certifications
+
+| 取得年 | 資格名 |
 | --- | --- |
-| 好きなAWSサービス | ECS、Lambda |
-| 好きなプログラミング言語 | Golang ※勉強中 |
-| 好きな運用管理ツール | 推しを探しています(少し前はTerraform推し) |
-| 最近の関心 | 認証・認可、ゼロトラスト、サーバレス |
+| 2011/10 | 応用情報技術者 |
+| 2013/10 | ITIL V3 - Foundation |
+| 2014/07 | LPIC-1 |
+| 2015 | 情報セキュリティ管理士認定試験 |
+| 2016 | EXIN OpenStack Foundation |
+| 2019/02 | AWS Certified Solutions Architect - Associate (Expired) |
+| 2021/02 | AWS Certified SysOps Administrator - Associate |
+| 2021/09 | 日商簿記3級 |
+| 2022/07 | AWS Certified Solutions Architect - Associate |
 
-## Sites
-
-- [GitHub](https://github.com/hibara428)
-
-## Skills
+## Technical Skills
 
 ### インフラ
 
@@ -59,12 +64,12 @@ ITIL(v3)、ISMS
 
 | 技術項目 | 期間 | 備考 |
 | --- | --- | --- |
-| PHP | 5年以上 | |
+| PHP | 5年以上 | Laravel,CakePHP |
 | Node.js | 2年程度 | |
 | TypeScript | 1年程度 | |
 | Python | 2年程度 | |
 | Perl | 2年程度 | |
-| Golang | 3ヶ月程度 | |
+| Golang | 1年未満 | |
 
 ```
 OpenAPI、Postman
@@ -74,12 +79,12 @@ OpenAPI、Postman
 
 | 技術項目 | 期間 | 備考 |
 | --- | --- | --- |
-| HTML5 | 3ヶ月程度 | |
+| HTML5 | 1年程度 | |
 | Android | 1年程度 | Kotlin、Java |
-| iOS | 3ヶ月程度 | Swift、Objective-C |
-| Google Apps Script | 3ヶ月程度 | |
+| iOS | 1年未満 | Swift、Objective-C |
+| Google Apps Script | 1年未満 | |
 
-## Business experiences & Hobbies
+## Business experiences
 
 ### バックエンド配信APIの設計・実装 (5年)
 
@@ -115,10 +120,6 @@ VMWareベースからDockerベースの開発・検証基盤に移行し、数�
 
 ![img/dev-env.jpg](img/dev-env.jpg)
 
-また、非開発部門が容易かつ安全に特定顧客専用のサンプル公開環境を用意できるPHPアプリケーションを実装し、AWS上に環境構築。
-
-![img/sample-env.jpg](img/sample-env.jpg)
-
 #### 運用管理
 
 開発・検証基盤のコード化に注力。基盤だけでなくアプリ実行環境の保守性を改善。運用管理はCloudFormation、Terraform、Ansibleを適宜選択。
@@ -152,20 +153,7 @@ VMWareベースからDockerベースの開発・検証基盤に移行し、数�
 - Androidアプリ開発(Kotlin、Java)
 - iOSアプリ開発(Swift、Objective-C)
 
-### その他
+## Others
 
 - 大学時代にサークルにてWindowsプログラミングによるアクションゲーム等を制作
 - アルバイトにてCakePHPを用いたWeb+DBアプリケーションを開発
-
-## Certifications
-
-| 取得年 | 資格名 |
-| --- | --- |
-| 2011/10 | 応用情報技術者 |
-| 2013/10 | ITIL V3 Foundation |
-| 2014/07 | LPIC レベル1 |
-| 2015 | 情報セキュリティ管理士認定試験 |
-| 2016 | EXIN OpenStack Foundation |
-| 2019/02 | AWS Certified Solutions Architect - Associate (SAA) |
-| 2021/02 | AWS Certified SysOps Administrator - Associate (SOA) |
-| 2021/09 | 日商簿記3級 |
