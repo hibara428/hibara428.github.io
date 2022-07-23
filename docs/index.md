@@ -7,7 +7,9 @@
 インフラ・バックエンドエンジニアです。
 インフラ設計・構築・運用、およびバックエンド開発を主な仕事にしています。その他、フロントエンド開発やネイティブアプリ開発も経験があります。
 
-- [hibara428 | GitHub](https://github.com/hibara428)
+### Sites
+
+- [GitHub](https://github.com/hibara428)
 
 ### Certifications
 
@@ -64,7 +66,7 @@ ITIL(v3)、ISMS
 
 | 技術項目 | 期間 | 備考 |
 | --- | --- | --- |
-| PHP | 5年以上 | Laravel,CakePHP |
+| PHP | 5年以上 | Laravel、CakePHP |
 | Node.js | 2年程度 | |
 | TypeScript | 1年程度 | |
 | Python | 2年程度 | |
