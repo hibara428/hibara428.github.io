@@ -158,6 +158,8 @@ etc.
 | Ansible                  | 1 年 |                |
 | Prometheus               | 3 年 |                |
 | Grafana                  | 3 年 |                |
+| Mackerel                 | 1 年 |                |
+| NewRelic                 | 半年 |                |
 
 ### Developments
 
@@ -169,7 +171,6 @@ etc.
 | Python             | 2 年     |                  |
 | Perl               | 2 年     |                  |
 | Golang             | 1 年未満 |                  |
-| HTML5              | 1 年     |                  |
 | Kotlin             | 1 年     | Android          |
 | Swift              | 1 年未満 | iOS              |
 | Objective-C        | 1 年未満 | iOS              |
