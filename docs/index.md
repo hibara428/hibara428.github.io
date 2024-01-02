@@ -28,51 +28,33 @@
 
 ### Development
 
-#### 5 年以上
-
-PHP(Laravel,CakePHP)
-
-#### 1-2 年
-
-Node.js(Express) / TypeScript / Kotlin / Python / Perl / Lambda(主に Node.js)
-
-#### 少々
-
-Golang / Swift / Objective-C / Google App Script
+| 期間    | 技術 |
+| ------ | --- |
+| 5年以上 | PHP(Laravel,CakePHP) |
+| 1-2年  | Node.js(Express) / TypeScript / Kotlin / Python / Perl / Lambda(主に Node.js) |
+| 少々   | Golang / Swift / Objective-C / Google App Script |
 
 ### Infrastructure
 
-#### 5 年以上
-
-AWS(設計,構築,運用)
-
-#### 3-4 年
-
-物理サーバ運用保守(IBM,Dell 等) / DC 運用(配線,運用管理等)
-
-#### 少々
-
-Azure(運用) / GCP(設計,構築)
+| 期間    | 技術 |
+| ------ | --- |
+| 5年以上 | AWS(設計,構築,運用) |
+| 3-4年  | 物理サーバ運用保守(IBM,Dell 等) / DC 運用(配線,運用管理等) |
+| 少々   | Azure(運用) / GCP(設計,構築) |
 
 ### Server
 
-#### 5 年以上
-
-Linux(RedHat 系,Debian 系) / Docker(サーバ運用含む) / Apache / Nginx
-
-#### 3-4 年
-
-Fluentd / Traefik / Harbor / GitHub Enterprise
+| 期間    | 技術 |
+| ------ | --- |
+| 5年以上 | Linux(RedHat 系,Debian 系) / Docker(サーバ運用含む) / Apache / Nginx |
+| 1-2年  | Fluentd / Traefik / Harbor / GitHub Enterprise |
 
 ### Operations
 
-#### 3-4 年
-
-Terraform / Prometheus / Grafana
-
-#### 1-2 年
-
-Ansible / Mackerel / NewRelic
+| 期間    | 技術 |
+| ------ | --- |
+| 5年以上 | Terraform / Prometheus / Grafana |
+| 1-2年  | Ansible / Mackerel / NewRelic |
 
 ## Certifications
 
