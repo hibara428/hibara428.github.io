@@ -1,18 +1,28 @@
 ## About
 
-**hibara428** (hibara428@gmail.com)
-
 ![img/gizmo-icon.jpg](img/gizmo-icon.jpg)
 
-インフラ・バックエンドエンジニア。インフラの設計・構築・運用、およびバックエンド開発を中心に、フロントエンドやネイティブアプリの開発の経験も少々。
+**hibara428** \<hibara428@gmail.com\>
+
+インフラ・バックエンドエンジニア
+
+- AWS を中心としたインフラの設計・構築・運用
+- PHP を中心としたバックエンドの開発
+- (システムアーキテクト方面へ広げてゆきたい)
 
 ### Sites
 
-- [GitHub](https://github.com/hibara428)
+[GitHub](https://github.com/hibara428) / [Zenn](https://zenn.dev/hibara428)
 
-### Likes
+### Favorites
 
-アーキテクチャ / DevOps / サーバレス / ホラー / SF / ロック(音楽)
+アーキテクチャ論 / DevOps / サーバレス / ホラー / SF(Sci-Fi) / ロック・ミュージック
+
+#### Technical Books
+
+- `実践 UML オブジェクト指向分析設計と反復型開発入門`
+- `入門監視`
+- `ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ`
 
 ## Business Experiences
 
