@@ -24,6 +24,18 @@
 - `入門監視`
 - `ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ`
 
+### Certifications
+
+- 修士(情報工学)
+- AWS Certificate Solution Architect - Associate (2019/02〜)
+- AWS Certificate SysOps Administrator - Associate (2021/02〜)
+- IPA 応用情報処理技術者 (2011/10)
+- ITIL V3 - Foundation (2013/10)
+- LPIC-1 (2014/07)
+- 情報セキュリティ管理士認定試験 (2015)
+- EXIN OpenStack Foundation (2016)
+- 日商簿記 3 級 (2021/09)
+
 ## Business Experiences
 
 ### 配信 API の設計・実装
@@ -185,19 +197,3 @@ etc.
 | Swift              | 1 年未満 | iOS              |
 | Objective-C        | 1 年未満 | iOS              |
 | Google Apps Script | 1 年未満 |                  |
-
-## Certifications
-
-- AWS Certificate Solution Architect - Associate (2019/02〜)
-- AWS Certificate SysOps Administrator - Associate (2021/02〜)
-- ITIL V3 - Foundation (2013/10)
-- IPA 応用情報処理技術者 (2011/10)
-- 情報セキュリティ管理士認定試験 (2015)
-- EXIN OpenStack Foundation (2016)
-- LPIC-1 (2014/07)
-- 日商簿記 3 級 (2021/09)
-
-## Others
-
-- 大学時代にサークルにて Windows プログラミングによるアクションゲーム等を制作
-- アルバイトにて CakePHP を用いた Web+DB アプリケーションを開発
