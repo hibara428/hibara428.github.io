@@ -6,35 +6,23 @@
 
 インフラ・バックエンドエンジニア
 
-- AWS を中心としたインフラの設計・構築・運用
-- PHP を中心としたバックエンドの開発
+- AWS を中心としたインフラ設計・構築・運用
+- PHP を中心としたバックエンド開発
 - (システムアーキテクト方面へ広げてゆきたい)
 
-### Sites
+## Sites
 
 [GitHub](https://github.com/hibara428) / [Zenn](https://zenn.dev/hibara428)
 
-### Favorites
+## Favorites
 
 アーキテクチャ論 / DevOps / サーバレス / ホラー / SF(Sci-Fi) / ロック・ミュージック
 
-#### Technical Books
+#### Favorite Technical Books
 
-- `実践 UML オブジェクト指向分析設計と反復型開発入門`
-- `入門監視`
-- `ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ`
-
-### Certifications
-
-- 修士(情報工学)
-- AWS Certificate Solution Architect - Associate (2019/02〜)
-- AWS Certificate SysOps Administrator - Associate (2021/02〜)
-- IPA 応用情報処理技術者 (2011/10)
-- ITIL V3 - Foundation (2013/10)
-- LPIC-1 (2014/07)
-- 情報セキュリティ管理士認定試験 (2015)
-- EXIN OpenStack Foundation (2016)
-- 日商簿記 3 級 (2021/09)
+- [実践 UML 第 2 版 ―パターンによる統一プロセスガイド](https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5UML%E2%80%95%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E7%B5%B1%E4%B8%80%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AF%E3%83%AC%E3%83%BC%E3%82%B0-%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%B3/dp/4894713861/ref=sr_1_3?adgrpid=52281422574&gclid=Cj0KCQiAhc-sBhCEARIsAOVwHuRH7mBjfYC5nkajzNlpWe_wDynbD7TBcqDoPD4uTvO4D-NpBHZWNOQaAq1PEALw_wcB&hvadid=679055276120&hvdev=c&hvlocphy=1009435&hvnetw=g&hvqmt=e&hvrand=16561785684544326894&hvtargid=kwd-334580688393&hydadcr=16035_13711624&jp-ad-ap=0&keywords=%E5%AE%9F%E8%B7%B5uml&qid=1704238186&sr=8-3)
+- [入門監視](https://www.oreilly.co.jp/books/9784873118642/)
+- [ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ](https://www.oreilly.co.jp//books/9784873119823/)
 
 ## Skills
 
@@ -85,6 +73,18 @@ Terraform / Prometheus / Grafana
 #### 1-2 年
 
 Ansible / Mackerel / NewRelic
+
+## Certifications
+
+- 修士(情報工学)
+- AWS Certificate Solution Architect - Associate (2019/02〜)
+- AWS Certificate SysOps Administrator - Associate (2021/02〜)
+- IPA 応用情報処理技術者 (2011/10)
+- ITIL V3 - Foundation (2013/10)
+- LPIC-1 (2014/07)
+- 情報セキュリティ管理士認定試験 (2015)
+- EXIN OpenStack Foundation (2016)
+- 日商簿記 3 級 (2021/09)
 
 ## Business Experiences
 
