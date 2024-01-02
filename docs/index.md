@@ -36,6 +36,56 @@
 - EXIN OpenStack Foundation (2016)
 - 日商簿記 3 級 (2021/09)
 
+## Skills
+
+### Development
+
+#### 5 年以上
+
+PHP(Laravel,CakePHP)
+
+#### 1-2 年
+
+Node.js(Express) / TypeScript / Kotlin / Python / Perl / Lambda(主に Node.js)
+
+#### 少々
+
+Golang / Swift / Objective-C / Google App Script
+
+### Infrastructure
+
+#### 5 年以上
+
+AWS(設計,構築,運用)
+
+#### 3-4 年
+
+物理サーバ運用保守(IBM,Dell 等) / DC 運用(配線,運用管理等)
+
+#### 少々
+
+Azure(運用) / GCP(設計,構築)
+
+### Server
+
+#### 5 年以上
+
+Linux(RedHat 系,Debian 系) / Docker(サーバ運用含む) / Apache / Nginx
+
+#### 3-4 年
+
+Fluentd / Traefik / Harbor / GitHub Enterprise
+
+### Operations
+
+#### 3-4 年
+
+Terraform / Prometheus / Grafana
+
+#### 1-2 年
+
+Ansible / Mackerel / NewRelic
+
 ## Business Experiences
 
 ### 配信 API の設計・実装
@@ -144,56 +194,3 @@
 #### 期間
 
 - 1 年
-
-## Technical Skills
-
-### Cloud Platforms
-
-| 技術項目 | 期間     | 備考             |
-| -------- | -------- | ---------------- |
-| AWS      | 5 年以上 | 設計・構築・運用 |
-| Azure    | 1 年     | 運用             |
-
-### Servers
-
-| 技術項目          | 期間     | 備考                 |
-| ----------------- | -------- | -------------------- |
-| Linux             | 5 年以上 | RedHat 系、Debian 系 |
-| Docker            | 5 年以上 | サーバ運用含む       |
-| Lambda            | 2 年     | 主に Node.js         |
-| Apache            | 5 年     |                      |
-| Nginx             | 5 年     |                      |
-| Fluentd           | 3 年     |                      |
-| Traefik           | 3 年     |                      |
-| Harbor            | 3 年     |                      |
-| GitHub Enterprise | 3 年     |                      |
-
-etc.
-
-### Operations
-
-| 技術項目                 | 期間 | 備考           |
-| ------------------------ | ---- | -------------- |
-| ラックマウントサーバ保守 | 3 年 | 設定、配線など |
-| Terraform                | 3 年 |                |
-| CloudFormation           | 1 年 |                |
-| Ansible                  | 1 年 |                |
-| Prometheus               | 3 年 |                |
-| Grafana                  | 3 年 |                |
-| Mackerel                 | 1 年 |                |
-| NewRelic                 | 半年 |                |
-
-### Developments
-
-| 技術項目           | 期間     | 備考             |
-| ------------------ | -------- | ---------------- |
-| PHP                | 5 年以上 | Laravel、CakePHP |
-| Node.js            | 2 年     |                  |
-| TypeScript         | 1 年     |                  |
-| Python             | 2 年     |                  |
-| Perl               | 2 年     |                  |
-| Golang             | 1 年未満 |                  |
-| Kotlin             | 1 年     | Android          |
-| Swift              | 1 年未満 | iOS              |
-| Objective-C        | 1 年未満 | iOS              |
-| Google Apps Script | 1 年未満 |                  |
