@@ -28,33 +28,33 @@
 
 ### Development
 
-| 期間    | 技術 |
-| ------ | --- |
-| 5年以上 | PHP(Laravel,CakePHP) |
-| 1-2年  | Node.js(Express) / TypeScript / Kotlin / Python / Perl / Lambda(主に Node.js) |
-| 少々   | Golang / Swift / Objective-C / Google App Script |
+| 期間     | 技術                                                                          |
+| -------- | ----------------------------------------------------------------------------- |
+| 5 年以上 | PHP(Laravel,CakePHP)                                                          |
+| 1-2 年   | Node.js(Express) / TypeScript / Kotlin / Python / Perl / Lambda(主に Node.js) |
+| 少々     | Golang / Swift / Objective-C / Google App Script                              |
 
 ### Infrastructure
 
-| 期間    | 技術 |
-| ------ | --- |
-| 5年以上 | AWS(設計,構築,運用) |
-| 3-4年  | 物理サーバ運用保守(IBM,Dell 等) / DC 運用(配線,運用管理等) |
-| 少々   | Azure(運用) / GCP(設計,構築) |
+| 期間     | 技術                                                       |
+| -------- | ---------------------------------------------------------- |
+| 5 年以上 | AWS(設計,構築,運用)                                        |
+| 3-4 年   | 物理サーバ運用保守(IBM,Dell 等) / DC 運用(配線,運用管理等) |
+| 少々     | Azure(運用) / GCP(設計,構築)                               |
 
 ### Server
 
-| 期間    | 技術 |
-| ------ | --- |
-| 5年以上 | Linux(RedHat 系,Debian 系) / Docker(サーバ運用含む) / Apache / Nginx |
-| 1-2年  | Fluentd / Traefik / Harbor / GitHub Enterprise |
+| 期間     | 技術                                                                 |
+| -------- | -------------------------------------------------------------------- |
+| 5 年以上 | Linux(RedHat 系,Debian 系) / Docker(サーバ運用含む) / Apache / Nginx |
+| 1-2 年   | Fluentd / Traefik / Harbor / GitHub Enterprise                       |
 
 ### Operations
 
-| 期間    | 技術 |
-| ------ | --- |
-| 5年以上 | Terraform / Prometheus / Grafana |
-| 1-2年  | Ansible / Mackerel / NewRelic |
+| 期間     | 技術                             |
+| -------- | -------------------------------- |
+| 5 年以上 | Terraform / Prometheus / Grafana |
+| 1-2 年   | Ansible / Mackerel / NewRelic    |
 
 ## Certifications
 
@@ -69,6 +69,18 @@
 - 日商簿記 3 級 (2021/09)
 
 ## Business Experiences
+
+### Web アプリ開発
+
+Laravel ベースの Web アプリケーション実装、および技術的負債解消のリード。
+
+#### 期間
+
+- 2 年(現在)
+
+#### 規模感
+
+- Laravel,Bootstrap 実装
 
 ### 配信 API の設計・実装
 
@@ -89,17 +101,6 @@
 - キャッシュ可能性(CDN 利用性)の向上
 - 認証・認可の標準技術化(OAuth2)による保守性と安全性の向上
 - 設定の分離による機能拡張性の向上
-
-### Web アプリ開発
-
-#### 期間
-
-- 1 年
-
-#### 規模感
-
-- Laravel 実装
-- RDB、Bootstrap 利用
 
 ### ハイブリッドクラウド開発・検証基盤運用
 
