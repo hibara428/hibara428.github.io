@@ -24,6 +24,22 @@
 - [入門監視](https://www.oreilly.co.jp/books/9784873118642/)
 - [ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ](https://www.oreilly.co.jp//books/9784873119823/)
 
+## Certifications
+
+- 修士課程修了(情報工学)
+
+| 期間     | 技術                                           |
+| -------- | ---------------------------------------------- |
+| 2019/02- | AWS Certified Solution Architect - Associate   |
+| 2021/02- | AWS Certified SysOps Administrator - Associate |
+| 2024/03- | AWS Certified Database - Specialty             |
+| 2011/10  | 応用情報処理技術者                             |
+| 2013/10  | ITIL V3 - Foundation                           |
+| 2014/07  | LPIC-1                                         |
+| 2015     | 情報セキュリティ管理士認定試験                 |
+| 2016     | EXIN OpenStack Foundation                      |
+| 2021/09  | 日商簿記 3 級                                  |
+
 ## Skills
 
 ### Development
@@ -56,29 +72,17 @@
 | 5 年以上 | Terraform / Prometheus / Grafana |
 | 1-2 年   | Ansible / Mackerel / NewRelic    |
 
-## Certifications
-
-- 修士(情報工学)
-- AWS Certificate Solution Architect - Associate (2019/02〜)
-- AWS Certificate SysOps Administrator - Associate (2021/02〜)
-- IPA 応用情報処理技術者 (2011/10)
-- ITIL V3 - Foundation (2013/10)
-- LPIC-1 (2014/07)
-- 情報セキュリティ管理士認定試験 (2015)
-- EXIN OpenStack Foundation (2016)
-- 日商簿記 3 級 (2021/09)
-
 ## Business Experiences
 
 ### Web アプリ開発
 
 Laravel ベース Web アプリケーションの設計・実装、および技術的負債解消のリード。
 
-| 項目 | 値           |
-| ---- | ------------ |
-| 期間 | 2 年〜現在   |
-| 実装 | PHP(Laravel) |
-| 規模 | 開発 5 名強  |
+| 項目 | 値            |
+| ---- | ------------- |
+| 期間 | 2 年〜現在    |
+| 実装 | PHP(Laravel)  |
+| 規模 | 開発 5 名程度 |
 
 #### 補足
 
