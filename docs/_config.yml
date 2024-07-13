@@ -1,5 +1,24 @@
-title: Engineering backdoor
-description: ' '
-theme: jekyll-theme-slate
-show_downloads: false
+title: hibara428's Portfolio
+author:
+  name: hibara428
+  email: hibara428@gmail.com
+description: |
+  ITエンジニア。インフラ/バックエンド/DevOps。
+  何か書く仕事とかしてみたいのでいろいろ書いてみることにします。
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+show_excerpts: true
+minima:
+  skin: auto
+  social_links:
+    - platform: github
+      user_url: 'https://github.com/hibara428'
+    - platform: x
+      user_url: 'https://x.com/hibara428'
+    - platform: note
+      user_url: 'https://note.com/hibara428'
+    - platform: zenn
+      user_url: 'https://zenn.dev/hibara428'
 google_analytics: G-4DQ4RV5MJG
