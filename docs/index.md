@@ -8,30 +8,44 @@ layout: home
 
 **hibara428** \<hibara428@gmail.com\>
 
-インフラ・バックエンドエンジニア
+インフラエンジニア/バックエンドエンジニア/システムアーキテクト
 
-- AWS を中心としたインフラ設計・構築・運用
+- AWS を中心としたインフラ設計/構築/運用
 - PHP を中心としたバックエンド開発
-- DevOps や SRE の概念の導入による開発・運用改善
-- (システムアーキテクト方面へ広げてゆきたい)
+- DevOps や SRE の開発体制への導入
 
 ## Favorites
 
 - アーキテクチャ論 / DevOps / サーバレス
 - ホラー / ミステリ / SF(Sci-Fi) / ロック・ミュージック
 
-#### Favorite Technical Books
+#### Tech books
 
 - [実践 UML 第 2 版 ―パターンによる統一プロセスガイド](https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5UML%E2%80%95%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%AB%E3%82%88%E3%82%8B%E7%B5%B1%E4%B8%80%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%82%AC%E3%82%A4%E3%83%89-%E3%82%AF%E3%83%AC%E3%83%BC%E3%82%B0-%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%B3/dp/4894713861/ref=sr_1_3?adgrpid=52281422574&gclid=Cj0KCQiAhc-sBhCEARIsAOVwHuRH7mBjfYC5nkajzNlpWe_wDynbD7TBcqDoPD4uTvO4D-NpBHZWNOQaAq1PEALw_wcB&hvadid=679055276120&hvdev=c&hvlocphy=1009435&hvnetw=g&hvqmt=e&hvrand=16561785684544326894&hvtargid=kwd-334580688393&hydadcr=16035_13711624&jp-ad-ap=0&keywords=%E5%AE%9F%E8%B7%B5uml&qid=1704238186&sr=8-3)
 - [入門監視](https://www.oreilly.co.jp/books/9784873118642/)
 - [ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ](https://www.oreilly.co.jp//books/9784873119823/)
 
-## Certifications
+## Skills
 
-- 修士課程修了(情報工学)
+- PHP(Laravel,Slim,CakePHP)
+- AWS(設計,構築,運用)
+- Linux(RedHat/Debian 系)
+- Docker
+
+#### Other Topics
+
+- Golang, Swift, Objective-C, Kotlin, Node.js, TypeScript, Python, Perl
+- AWS Lambda, Google Apps Script
+- 物理サーバ運用保守(IBM,Dell), データセンター運用(ラッキング,配線,運用管理), Azure(運用), GCP(設計,構築)
+- Fluentd, Traefik, Harbor
+- NewRelic, Mackerel, Prometheus, Grafana, Terraform, Ansible
+- GitHub Enterprise, Jenkins
+
+## Certifications
 
 | 期間     | 技術                                           |
 | -------- | ---------------------------------------------- |
+| 2013/03  | 情報工学(修士)                                 |
 | 2011/10  | 応用情報処理技術者                             |
 | 2013/10  | ITIL V3 - Foundation                           |
 | 2014/07  | LPIC-1                                         |
@@ -42,43 +56,11 @@ layout: home
 | 2021/09  | 日商簿記 3 級                                  |
 | 2024/03- | AWS Certified Database - Specialty             |
 
-## Skills
-
-### Development
-
-| 期間     | 技術                                                                          |
-| -------- | ----------------------------------------------------------------------------- |
-| 5 年以上 | PHP(Laravel,CakePHP)                                                          |
-| 1-2 年   | Node.js(Express) / TypeScript / Kotlin / Python / Perl / Lambda(主に Node.js) |
-| 少々     | Golang / Swift / Objective-C / Google App Script                              |
-
-### Infrastructure
-
-| 期間     | 技術                                                       |
-| -------- | ---------------------------------------------------------- |
-| 5 年以上 | AWS(設計,構築,運用)                                        |
-| 3-4 年   | 物理サーバ運用保守(IBM,Dell 等) / DC 運用(配線,運用管理等) |
-| 少々     | Azure(運用) / GCP(設計,構築)                               |
-
-### Server
-
-| 期間     | 技術                                                                 |
-| -------- | -------------------------------------------------------------------- |
-| 5 年以上 | Linux(RedHat 系,Debian 系) / Docker(サーバ運用含む) / Apache / Nginx |
-| 1-2 年   | Fluentd / Traefik / Harbor / GitHub Enterprise                       |
-
-### Operations
-
-| 期間     | 技術                             |
-| -------- | -------------------------------- |
-| 5 年以上 | Terraform / Prometheus / Grafana |
-| 1-2 年   | Ansible / Mackerel / NewRelic    |
-
-## Business Experiences
+## Experiences
 
 ### Web アプリ開発
 
-Laravel ベース Web アプリケーションの設計・実装、および技術的負債解消のリード。
+Laravel ベース Web アプリケーションの設計・実装、および技術負債解消のリード。
 
 | 項目 | 値            |
 | ---- | ------------- |
@@ -88,7 +70,7 @@ Laravel ベース Web アプリケーションの設計・実装、および技�
 
 #### 補足
 
-技術的負債の解消として、以下のような取り組みを推進。
+技術負債の解消として、以下のような取り組みを推進。
 
 - 設計思想の適用や静的解析の導入等によるコード保守性の向上
 - スクラム開発ベースの開発フロー改善による開発生産性の向上
