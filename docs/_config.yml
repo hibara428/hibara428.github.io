@@ -3,8 +3,7 @@ author:
   name: hibara428
   email: hibara428@gmail.com
 description: |
-  ITエンジニア。インフラ/バックエンド/DevOps。
-  何か書く仕事とかしてみたいのでいろいろ書いてみることにします。
+  ITエンジニア。インフラ/バックエンド/DevOps/システムアーキテクト。何か書く仕事とかしてみたい。
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
