@@ -18,6 +18,8 @@ minima:
       user_url: 'https://x.com/hibara428'
     - platform: note
       user_url: 'https://note.com/hibara428'
+      title: note
     - platform: zenn
       user_url: 'https://zenn.dev/hibara428'
+      title: zenn
 google_analytics: G-4DQ4RV5MJG
