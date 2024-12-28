@@ -29,10 +29,10 @@ Web エンジニア。
 
 ## Keywords
 
-- AWS, Cloudflare, Google Cloud, Azure
-- PHP, Swift, Kotlin, TypeScript, Python, Perl, C++
+- AWS, Cloudflare, Google Cloud
+- PHP, TypeScript, Python, Swift, Kotlin
 - Laravel, Slim Framework, Android, iOS, Express, Vue.js
 - NewRelic, Mackerel, Prometheus, Grafana
 - Docker, Terraform, Ansible, AWS CloudFormation
 - GitHub Actions, AWS CodePipeline, Jenkins
-- Data center operations, Operations for Rack-mount server (IBM, Dell)
+- ITIL, ISMS, Data center operations, Rack-mount server (IBM, Dell)
