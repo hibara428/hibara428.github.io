@@ -5,13 +5,23 @@ title: Skills
 
 ## Keywords
 
-- AWS, Cloudflare, Google Cloud
-- PHP, TypeScript, Python, Swift, Kotlin
-- Laravel, Slim Framework, Android, iOS, Express, Vue.js
-- NewRelic, Mackerel, Prometheus, Grafana
-- Docker, Terraform, Ansible, AWS CloudFormation
+| 技術      | 期間      |
+| --------- | --------- |
+| AWS       | 10 年以上 |
+| PHP       | 10 年以上 |
+| Laravel   | 3 年以上  |
+| Docker    | 5 年以上  |
+| Linux     | 10 年以上 |
+| NewRelic  | 1 年以上  |
+| Terraform | 3 年以上  |
+
+- Cloudflare, Google Cloud
+- Node.js, TypeScript, Python, Swift, Kotlin
+- Slim Framework, Android, iOS, Express, Vue.js
+- Mackerel, Prometheus, Grafana
+- Ansible, AWS CloudFormation
 - GitHub Actions, AWS CodePipeline, Jenkins
-- ITIL, ISMS, Data center operations, Rack-mount server (IBM, Dell)
+- ITIL, ISMS, Data Center Ops, Rack-mount Server (IBM, Dell) Ops
 
 ## Certifications
 
