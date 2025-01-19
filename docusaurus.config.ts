@@ -74,14 +74,12 @@ const config: Config = {
       title: 'hibara428.github.io',
       items: [
         {
-          type: 'doc',
-          docId: 'profile',
+          to: '/profile',
           label: 'Profile',
           position: 'left',
         },
         {
-          type: 'doc',
-          docId: 'works',
+          to: '/works',
           label: 'Works',
           position: 'left',
         },

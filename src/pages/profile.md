@@ -1,5 +1,4 @@
 ---
-id: profile
 title: Profile
 ---
 
