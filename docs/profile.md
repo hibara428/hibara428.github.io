@@ -5,16 +5,24 @@ title: Profile
 
 # Profile
 
+## About
+
 ![icon](/img/gizmo-icon.jpg)
 
 **hibara428** \<hibara428@gmail.com\>
+
+- 愛知県出身
+- 名古屋工業大学工学部情報工学科卒
+- 名古屋工業大学工学部創成シミュレーション工学専攻修士課程修了
+- 静岡県在住
 
 ## Favorites
 
 ### Topics
 
 - アーキテクチャ論
-- DevOps / NoOps
+- DevOps
+- NoOps
 
 ### Technical books
 
