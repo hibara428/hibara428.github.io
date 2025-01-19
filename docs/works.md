@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Works
 ---
+
+# Works
 
 ## SaaS アプリ開発およびインフラ運用
 
