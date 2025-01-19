@@ -22,6 +22,16 @@ const config: Config = {
     locales: ['ja'],
   },
 
+  plugins: [
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-4DQ4RV5MJG',
+        anonymizeIP: true,
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -34,10 +44,6 @@ const config: Config = {
         blog: false,
         theme: {
           customCss: './src/css/custom.css',
-        },
-        googleAnalytics: {
-          trackingID: 'G-4DQ4RV5MJG',
-          anonymizeIP: true,
         },
       } satisfies Preset.Options,
     ],
