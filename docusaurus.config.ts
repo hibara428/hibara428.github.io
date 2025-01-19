@@ -106,6 +106,10 @@ const config: Config = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} hibara428. Built with Docusaurus.`,
     },
+    colorMode: {
+      defaultMode: 'dark',
+      respectPrefersColorScheme: true,
+    },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
