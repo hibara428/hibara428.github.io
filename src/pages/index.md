@@ -1,9 +1,33 @@
 ---
-layout: home
-title: Skills
+title: Index
 ---
 
-## Keywords
+# Profile
+
+## About
+
+![icon](/img/gizmo-icon.jpg)
+
+**hibara428** \<hibara428@gmail.com\>
+
+Web エンジニア。
+
+- AWS でのインフラ（システム/運用）設計〜構築
+- PHP でのバックエンド設計〜開発
+- DevOps や SRE などの導入による開発〜運用プロセス改善
+
+その他いろいろ。アーキテクチャ論が好き。最近は書くお仕事をしてみたい。
+
+---
+
+## Experiences
+
+### Summary
+
+- Web 開発におけるアプリケーションからインフラまでのシステム設計/開発/運用
+- リファクタリング、CI/CD 基盤構築、オブザーバビリティ向上などの技術負債解消のリード
+
+### Skills
 
 | 技術      | 期間      |
 | --------- | --------- |
@@ -23,7 +47,7 @@ title: Skills
 - GitHub Actions, AWS CodePipeline, Jenkins
 - ITIL, ISMS, Data Center Ops, Rack-mount Server (IBM, Dell) Ops
 
-## Certifications
+### Certifications
 
 | 期間     | 技術                                           |
 | -------- | ---------------------------------------------- |
