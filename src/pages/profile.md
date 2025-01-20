@@ -8,7 +8,12 @@ title: Profile
 
 ![icon](/img/gizmo-icon.jpg)
 
-**hibara428** \<hibara428@gmail.com\>
+hibara428
+
+- フリーランス Web エンジニア
+- 最近は書くお仕事をしたい
+
+## History
 
 - 愛知県出身
 - 名古屋工業大学工学部情報工学科卒
