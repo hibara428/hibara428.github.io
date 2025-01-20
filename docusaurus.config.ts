@@ -90,9 +90,6 @@ const config: Config = {
               label: 'X',
               href: 'https://x.com/hiba',
             },
-            {
-              html: 'Email: hibara428@gmail.com',
-            },
           ],
         },
       ],
