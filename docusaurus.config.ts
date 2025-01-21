@@ -97,8 +97,8 @@ const config: Config = {
     },
     colorMode: {
       defaultMode: 'dark',
-      disableSwitch: true,
-      respectPrefersColorScheme: false,
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
     },
     prism: {
       theme: prismThemes.github,
