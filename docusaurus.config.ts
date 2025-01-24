@@ -55,13 +55,7 @@ const config: Config = {
     navbar: {
       hideOnScroll: true,
       title: 'hibara428.github.io',
-      items: [
-        {
-          to: '/profile',
-          label: 'Profile',
-          position: 'left',
-        },
-      ],
+      items: [],
     },
     footer: {
       style: 'dark',
