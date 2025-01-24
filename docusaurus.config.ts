@@ -61,11 +61,6 @@ const config: Config = {
           label: 'Profile',
           position: 'left',
         },
-        {
-          to: '/works',
-          label: 'Works',
-          position: 'left',
-        },
       ],
     },
     footer: {
